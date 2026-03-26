@@ -1,0 +1,27 @@
+waypoint_1:
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  w: 0.9962772125293461
+  description: Base Goal
+
+waypoint_2:
+  x: 1.5288729326368997
+  y: 1.6248887369683214
+  z: 0.0
+  w: 0.9954858883068856
+  description: Cone 1 Goal
+
+waypoint_3:
+  x: -1.6563274138023363
+  y: 1.5501837599612858
+  z: 0.0
+  w: 0.010447915292960052
+  description: Cone 2 Goal
+
+waypoint_4:
+  x: -7.4233363093467535
+  y: 4.399251255074338
+  z: 0.0
+  w: 0.022344610608389017
+  description: Dog Poster Goal
