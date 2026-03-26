@@ -205,7 +205,3 @@ The interactive CLI lets you select predefined waypoints from `navigate_waypoint
 ### 5. Object detection
 
 The `object_detection` node launches automatically with `amcl.launch.py`. View the annotated feed in RViz by adding an Image display on topic `/camera/object_detection`.
-
-## License
-
-MIT © Lucia Ferreira
